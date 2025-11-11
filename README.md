@@ -2,7 +2,8 @@
 
 Courte description (1–2 phrases).
 
-	Tu dois comprendre ce qui s'est passé ici grâce à des cassettes, trouver des clés pour déverouiller des salles, puis sortir en vie. 	Mais fais attention, tu n'es pas seul...
+	Tu dois comprendre ce qui s'est passé ici grâce à des cassettes, trouver des clés pour déverouiller des salles, puis sortir en vie.<br>
+	Mais fais attention, tu n'es pas seul...
 
 ## Comment tester
 - Ouvrir `index.html` dans un navigateur. Mais avant, il faut ouvrir le dossier complet du projet dans VSCode, et utiliser LiveServer, pour l'affichage de la font personnalisée.
